@@ -22,8 +22,3 @@ ARMA
 ARIMA
 
 SARIMAX
-
-# Air Passengers
-
-Import Library
-![image](https://user-images.githubusercontent.com/94101699/175479609-047ceb49-4973-4663-9d23-d7f1e29dacef.png)
